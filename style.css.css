@@ -1,0 +1,74 @@
+body{
+    background-color: whitesmoke;
+}
+.heading{
+    color: blue;
+    font-size: 50px;
+    padding-left: 20px
+}
+.timing{
+    padding-left: 200px;
+}
+.image{
+    height: 10px;
+}
+.headline{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+.home{
+    font-size: 15px;
+}
+.span1{
+    font-size: 18px;
+}
+.span2{
+    font-size: 18px;
+}
+.span3{
+    font-size: 18px;
+}
+.span4{
+    font-size: 18px;
+}
+.span5{
+    font-size: 18px;
+}
+.span6{
+    font-size: 18px;
+}
+.span7{
+    font-size: 18px;
+}
+.tejagudalaphoto{
+    height: 500px;
+    padding-left: 35%;
+}
+.instra{
+    height: 20px;
+}
+.instragram{
+    text-align: center;
+    padding: 50px;
+    
+}
+.aboutme{
+    text-align: center;
+    
+}
+.linkedin{
+    height: 20px;
+}
+.github{
+    height:20px ;
+}
+.creater{
+    color: red;
+}
+.small-part{
+    color: green;
+}
+.big-part{
+    color: pink;
+}
